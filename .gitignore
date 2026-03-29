@@ -1,0 +1,12 @@
+# Entorno virtual
+venv_tfm_enagas/
+__pycache__/
+*.pyc
+
+# Datos (GitHub no acepta archivos >100MB)
+data/raw/
+# Si tus procesados son pequeños (<50MB) puedes quitarlos de aquí
+data/processed/ 
+
+# Notebooks checkpoints
+.ipynb_checkpoints/
