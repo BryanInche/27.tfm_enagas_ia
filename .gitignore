@@ -2,6 +2,14 @@
 venv_tfm_enagas/
 __pycache__/
 *.pyc
+00. Datos aportados por Enagás/
+data/
+venv_tfm_enagas/
+*.csv
+*.xlsx
+*.db
+*.sqlite
+.ipynb_checkpoints/
 
 # Datos (GitHub no acepta archivos >100MB)
 data/raw/
